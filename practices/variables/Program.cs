@@ -6,10 +6,10 @@ namespace variables
     {
         static void Main(string[] args)
         {
-            int num = 2;
+            /*int num = 2;
             string variable = null;
             string Variable = null;
-            //Console.WriteLine(num);
+            Console.WriteLine(num);
 
             byte b = 5;     // 1 byte
             sbyte s = 5;    // 1 byte
@@ -42,7 +42,7 @@ namespace variables
             object o1 = "x";
             object o2 = 'y';
             object o3 = 4;
-            object o4 = 4.3;
+            object o4 = 4.3;*/
 
             //Strings
 
@@ -60,7 +60,7 @@ namespace variables
 
             //Boolean
 
-            bool bool1 = 10>2;
+            //bool bool1 = 10>2;
 
             //variable casting
 

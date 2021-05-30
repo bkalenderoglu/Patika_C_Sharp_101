@@ -4,5 +4,6 @@ This repository contains my work on practices and projects created by [Patika](h
 
 ## Included Topics:
 
-1.  [Console Programming](https://app.patika.dev/egitimler/csharp-101-patikasi/csharp-101/3-console-programlama)
-2.  [Variables](https://app.patika.dev/egitimler/csharp-101-patikasi/csharp-101/4-degiskenler)
+1.  Console Programming
+2.  Variables
+3.  Operators
