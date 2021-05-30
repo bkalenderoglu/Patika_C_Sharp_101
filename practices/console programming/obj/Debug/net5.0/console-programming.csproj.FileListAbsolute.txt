@@ -1,0 +1,16 @@
+C:\Users\hp\Desktop\practices\console programming\bin\Debug\net5.0\console-programming.exe
+C:\Users\hp\Desktop\practices\console programming\bin\Debug\net5.0\console-programming.deps.json
+C:\Users\hp\Desktop\practices\console programming\bin\Debug\net5.0\console-programming.runtimeconfig.json
+C:\Users\hp\Desktop\practices\console programming\bin\Debug\net5.0\console-programming.runtimeconfig.dev.json
+C:\Users\hp\Desktop\practices\console programming\bin\Debug\net5.0\console-programming.dll
+C:\Users\hp\Desktop\practices\console programming\bin\Debug\net5.0\ref\console-programming.dll
+C:\Users\hp\Desktop\practices\console programming\bin\Debug\net5.0\console-programming.pdb
+C:\Users\hp\Desktop\practices\console programming\obj\Debug\net5.0\console-programming.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\practices\console programming\obj\Debug\net5.0\console-programming.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\practices\console programming\obj\Debug\net5.0\console-programming.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\practices\console programming\obj\Debug\net5.0\console-programming.AssemblyInfo.cs
+C:\Users\hp\Desktop\practices\console programming\obj\Debug\net5.0\console-programming.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\practices\console programming\obj\Debug\net5.0\console-programming.dll
+C:\Users\hp\Desktop\practices\console programming\obj\Debug\net5.0\ref\console-programming.dll
+C:\Users\hp\Desktop\practices\console programming\obj\Debug\net5.0\console-programming.pdb
+C:\Users\hp\Desktop\practices\console programming\obj\Debug\net5.0\console-programming.genruntimeconfig.cache
