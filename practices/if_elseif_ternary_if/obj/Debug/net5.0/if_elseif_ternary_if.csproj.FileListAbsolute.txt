@@ -1,0 +1,16 @@
+C:\Users\hp\Desktop\Patika_C_Sharp_101\practices\if_elseif_ternary_if\bin\Debug\net5.0\if_elseif_ternary_if.exe
+C:\Users\hp\Desktop\Patika_C_Sharp_101\practices\if_elseif_ternary_if\bin\Debug\net5.0\if_elseif_ternary_if.deps.json
+C:\Users\hp\Desktop\Patika_C_Sharp_101\practices\if_elseif_ternary_if\bin\Debug\net5.0\if_elseif_ternary_if.runtimeconfig.json
+C:\Users\hp\Desktop\Patika_C_Sharp_101\practices\if_elseif_ternary_if\bin\Debug\net5.0\if_elseif_ternary_if.runtimeconfig.dev.json
+C:\Users\hp\Desktop\Patika_C_Sharp_101\practices\if_elseif_ternary_if\bin\Debug\net5.0\if_elseif_ternary_if.dll
+C:\Users\hp\Desktop\Patika_C_Sharp_101\practices\if_elseif_ternary_if\bin\Debug\net5.0\ref\if_elseif_ternary_if.dll
+C:\Users\hp\Desktop\Patika_C_Sharp_101\practices\if_elseif_ternary_if\bin\Debug\net5.0\if_elseif_ternary_if.pdb
+C:\Users\hp\Desktop\Patika_C_Sharp_101\practices\if_elseif_ternary_if\obj\Debug\net5.0\if_elseif_ternary_if.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Patika_C_Sharp_101\practices\if_elseif_ternary_if\obj\Debug\net5.0\if_elseif_ternary_if.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\Patika_C_Sharp_101\practices\if_elseif_ternary_if\obj\Debug\net5.0\if_elseif_ternary_if.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Patika_C_Sharp_101\practices\if_elseif_ternary_if\obj\Debug\net5.0\if_elseif_ternary_if.AssemblyInfo.cs
+C:\Users\hp\Desktop\Patika_C_Sharp_101\practices\if_elseif_ternary_if\obj\Debug\net5.0\if_elseif_ternary_if.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Patika_C_Sharp_101\practices\if_elseif_ternary_if\obj\Debug\net5.0\if_elseif_ternary_if.dll
+C:\Users\hp\Desktop\Patika_C_Sharp_101\practices\if_elseif_ternary_if\obj\Debug\net5.0\ref\if_elseif_ternary_if.dll
+C:\Users\hp\Desktop\Patika_C_Sharp_101\practices\if_elseif_ternary_if\obj\Debug\net5.0\if_elseif_ternary_if.pdb
+C:\Users\hp\Desktop\Patika_C_Sharp_101\practices\if_elseif_ternary_if\obj\Debug\net5.0\if_elseif_ternary_if.genruntimeconfig.cache
