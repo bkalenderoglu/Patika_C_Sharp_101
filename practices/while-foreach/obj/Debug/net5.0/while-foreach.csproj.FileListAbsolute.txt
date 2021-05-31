@@ -1,0 +1,16 @@
+C:\Users\hp\Desktop\Patika_C_Sharp_101\practices\while-foreach\bin\Debug\net5.0\while-foreach.exe
+C:\Users\hp\Desktop\Patika_C_Sharp_101\practices\while-foreach\bin\Debug\net5.0\while-foreach.deps.json
+C:\Users\hp\Desktop\Patika_C_Sharp_101\practices\while-foreach\bin\Debug\net5.0\while-foreach.runtimeconfig.json
+C:\Users\hp\Desktop\Patika_C_Sharp_101\practices\while-foreach\bin\Debug\net5.0\while-foreach.runtimeconfig.dev.json
+C:\Users\hp\Desktop\Patika_C_Sharp_101\practices\while-foreach\bin\Debug\net5.0\while-foreach.dll
+C:\Users\hp\Desktop\Patika_C_Sharp_101\practices\while-foreach\bin\Debug\net5.0\ref\while-foreach.dll
+C:\Users\hp\Desktop\Patika_C_Sharp_101\practices\while-foreach\bin\Debug\net5.0\while-foreach.pdb
+C:\Users\hp\Desktop\Patika_C_Sharp_101\practices\while-foreach\obj\Debug\net5.0\while-foreach.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Patika_C_Sharp_101\practices\while-foreach\obj\Debug\net5.0\while-foreach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\Patika_C_Sharp_101\practices\while-foreach\obj\Debug\net5.0\while-foreach.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Patika_C_Sharp_101\practices\while-foreach\obj\Debug\net5.0\while-foreach.AssemblyInfo.cs
+C:\Users\hp\Desktop\Patika_C_Sharp_101\practices\while-foreach\obj\Debug\net5.0\while-foreach.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Patika_C_Sharp_101\practices\while-foreach\obj\Debug\net5.0\while-foreach.dll
+C:\Users\hp\Desktop\Patika_C_Sharp_101\practices\while-foreach\obj\Debug\net5.0\ref\while-foreach.dll
+C:\Users\hp\Desktop\Patika_C_Sharp_101\practices\while-foreach\obj\Debug\net5.0\while-foreach.pdb
+C:\Users\hp\Desktop\Patika_C_Sharp_101\practices\while-foreach\obj\Debug\net5.0\while-foreach.genruntimeconfig.cache
