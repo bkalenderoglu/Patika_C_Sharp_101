@@ -1,0 +1,16 @@
+C:\Users\hp\Desktop\Patika_C_Sharp_101\practices\switch-case\bin\Debug\net5.0\switch-case.exe
+C:\Users\hp\Desktop\Patika_C_Sharp_101\practices\switch-case\bin\Debug\net5.0\switch-case.deps.json
+C:\Users\hp\Desktop\Patika_C_Sharp_101\practices\switch-case\bin\Debug\net5.0\switch-case.runtimeconfig.json
+C:\Users\hp\Desktop\Patika_C_Sharp_101\practices\switch-case\bin\Debug\net5.0\switch-case.runtimeconfig.dev.json
+C:\Users\hp\Desktop\Patika_C_Sharp_101\practices\switch-case\bin\Debug\net5.0\switch-case.dll
+C:\Users\hp\Desktop\Patika_C_Sharp_101\practices\switch-case\bin\Debug\net5.0\ref\switch-case.dll
+C:\Users\hp\Desktop\Patika_C_Sharp_101\practices\switch-case\bin\Debug\net5.0\switch-case.pdb
+C:\Users\hp\Desktop\Patika_C_Sharp_101\practices\switch-case\obj\Debug\net5.0\switch-case.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Patika_C_Sharp_101\practices\switch-case\obj\Debug\net5.0\switch-case.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\Patika_C_Sharp_101\practices\switch-case\obj\Debug\net5.0\switch-case.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Patika_C_Sharp_101\practices\switch-case\obj\Debug\net5.0\switch-case.AssemblyInfo.cs
+C:\Users\hp\Desktop\Patika_C_Sharp_101\practices\switch-case\obj\Debug\net5.0\switch-case.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Patika_C_Sharp_101\practices\switch-case\obj\Debug\net5.0\switch-case.dll
+C:\Users\hp\Desktop\Patika_C_Sharp_101\practices\switch-case\obj\Debug\net5.0\ref\switch-case.dll
+C:\Users\hp\Desktop\Patika_C_Sharp_101\practices\switch-case\obj\Debug\net5.0\switch-case.pdb
+C:\Users\hp\Desktop\Patika_C_Sharp_101\practices\switch-case\obj\Debug\net5.0\switch-case.genruntimeconfig.cache
