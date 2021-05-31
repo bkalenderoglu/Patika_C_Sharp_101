@@ -1,0 +1,16 @@
+C:\Users\hp\Desktop\Patika_C_Sharp_101\practices\forLoop-break-continue\bin\Debug\net5.0\forLoop-break-continue.exe
+C:\Users\hp\Desktop\Patika_C_Sharp_101\practices\forLoop-break-continue\bin\Debug\net5.0\forLoop-break-continue.deps.json
+C:\Users\hp\Desktop\Patika_C_Sharp_101\practices\forLoop-break-continue\bin\Debug\net5.0\forLoop-break-continue.runtimeconfig.json
+C:\Users\hp\Desktop\Patika_C_Sharp_101\practices\forLoop-break-continue\bin\Debug\net5.0\forLoop-break-continue.runtimeconfig.dev.json
+C:\Users\hp\Desktop\Patika_C_Sharp_101\practices\forLoop-break-continue\bin\Debug\net5.0\forLoop-break-continue.dll
+C:\Users\hp\Desktop\Patika_C_Sharp_101\practices\forLoop-break-continue\bin\Debug\net5.0\ref\forLoop-break-continue.dll
+C:\Users\hp\Desktop\Patika_C_Sharp_101\practices\forLoop-break-continue\bin\Debug\net5.0\forLoop-break-continue.pdb
+C:\Users\hp\Desktop\Patika_C_Sharp_101\practices\forLoop-break-continue\obj\Debug\net5.0\forLoop-break-continue.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Patika_C_Sharp_101\practices\forLoop-break-continue\obj\Debug\net5.0\forLoop-break-continue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\Patika_C_Sharp_101\practices\forLoop-break-continue\obj\Debug\net5.0\forLoop-break-continue.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Patika_C_Sharp_101\practices\forLoop-break-continue\obj\Debug\net5.0\forLoop-break-continue.AssemblyInfo.cs
+C:\Users\hp\Desktop\Patika_C_Sharp_101\practices\forLoop-break-continue\obj\Debug\net5.0\forLoop-break-continue.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Patika_C_Sharp_101\practices\forLoop-break-continue\obj\Debug\net5.0\forLoop-break-continue.dll
+C:\Users\hp\Desktop\Patika_C_Sharp_101\practices\forLoop-break-continue\obj\Debug\net5.0\ref\forLoop-break-continue.dll
+C:\Users\hp\Desktop\Patika_C_Sharp_101\practices\forLoop-break-continue\obj\Debug\net5.0\forLoop-break-continue.pdb
+C:\Users\hp\Desktop\Patika_C_Sharp_101\practices\forLoop-break-continue\obj\Debug\net5.0\forLoop-break-continue.genruntimeconfig.cache
