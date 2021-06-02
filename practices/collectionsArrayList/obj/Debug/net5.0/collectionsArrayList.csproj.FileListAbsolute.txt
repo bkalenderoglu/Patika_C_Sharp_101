@@ -1,0 +1,16 @@
+C:\Users\hp\Desktop\Patika_C_Sharp_101\practices\collectionsArrayList\bin\Debug\net5.0\collectionsArrayList.exe
+C:\Users\hp\Desktop\Patika_C_Sharp_101\practices\collectionsArrayList\bin\Debug\net5.0\collectionsArrayList.deps.json
+C:\Users\hp\Desktop\Patika_C_Sharp_101\practices\collectionsArrayList\bin\Debug\net5.0\collectionsArrayList.runtimeconfig.json
+C:\Users\hp\Desktop\Patika_C_Sharp_101\practices\collectionsArrayList\bin\Debug\net5.0\collectionsArrayList.runtimeconfig.dev.json
+C:\Users\hp\Desktop\Patika_C_Sharp_101\practices\collectionsArrayList\bin\Debug\net5.0\collectionsArrayList.dll
+C:\Users\hp\Desktop\Patika_C_Sharp_101\practices\collectionsArrayList\bin\Debug\net5.0\ref\collectionsArrayList.dll
+C:\Users\hp\Desktop\Patika_C_Sharp_101\practices\collectionsArrayList\bin\Debug\net5.0\collectionsArrayList.pdb
+C:\Users\hp\Desktop\Patika_C_Sharp_101\practices\collectionsArrayList\obj\Debug\net5.0\collectionsArrayList.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Patika_C_Sharp_101\practices\collectionsArrayList\obj\Debug\net5.0\collectionsArrayList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\Patika_C_Sharp_101\practices\collectionsArrayList\obj\Debug\net5.0\collectionsArrayList.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Patika_C_Sharp_101\practices\collectionsArrayList\obj\Debug\net5.0\collectionsArrayList.AssemblyInfo.cs
+C:\Users\hp\Desktop\Patika_C_Sharp_101\practices\collectionsArrayList\obj\Debug\net5.0\collectionsArrayList.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Patika_C_Sharp_101\practices\collectionsArrayList\obj\Debug\net5.0\collectionsArrayList.dll
+C:\Users\hp\Desktop\Patika_C_Sharp_101\practices\collectionsArrayList\obj\Debug\net5.0\ref\collectionsArrayList.dll
+C:\Users\hp\Desktop\Patika_C_Sharp_101\practices\collectionsArrayList\obj\Debug\net5.0\collectionsArrayList.pdb
+C:\Users\hp\Desktop\Patika_C_Sharp_101\practices\collectionsArrayList\obj\Debug\net5.0\collectionsArrayList.genruntimeconfig.cache
