@@ -1,0 +1,16 @@
+C:\Users\hp\Desktop\Patika_C_Sharp_101\practices\generic_list\bin\Debug\net5.0\generic_list.exe
+C:\Users\hp\Desktop\Patika_C_Sharp_101\practices\generic_list\bin\Debug\net5.0\generic_list.deps.json
+C:\Users\hp\Desktop\Patika_C_Sharp_101\practices\generic_list\bin\Debug\net5.0\generic_list.runtimeconfig.json
+C:\Users\hp\Desktop\Patika_C_Sharp_101\practices\generic_list\bin\Debug\net5.0\generic_list.runtimeconfig.dev.json
+C:\Users\hp\Desktop\Patika_C_Sharp_101\practices\generic_list\bin\Debug\net5.0\generic_list.dll
+C:\Users\hp\Desktop\Patika_C_Sharp_101\practices\generic_list\bin\Debug\net5.0\ref\generic_list.dll
+C:\Users\hp\Desktop\Patika_C_Sharp_101\practices\generic_list\bin\Debug\net5.0\generic_list.pdb
+C:\Users\hp\Desktop\Patika_C_Sharp_101\practices\generic_list\obj\Debug\net5.0\generic_list.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Patika_C_Sharp_101\practices\generic_list\obj\Debug\net5.0\generic_list.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\Patika_C_Sharp_101\practices\generic_list\obj\Debug\net5.0\generic_list.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Patika_C_Sharp_101\practices\generic_list\obj\Debug\net5.0\generic_list.AssemblyInfo.cs
+C:\Users\hp\Desktop\Patika_C_Sharp_101\practices\generic_list\obj\Debug\net5.0\generic_list.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Patika_C_Sharp_101\practices\generic_list\obj\Debug\net5.0\generic_list.dll
+C:\Users\hp\Desktop\Patika_C_Sharp_101\practices\generic_list\obj\Debug\net5.0\ref\generic_list.dll
+C:\Users\hp\Desktop\Patika_C_Sharp_101\practices\generic_list\obj\Debug\net5.0\generic_list.pdb
+C:\Users\hp\Desktop\Patika_C_Sharp_101\practices\generic_list\obj\Debug\net5.0\generic_list.genruntimeconfig.cache
