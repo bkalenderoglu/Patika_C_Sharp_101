@@ -1,0 +1,16 @@
+C:\Users\hp\Desktop\Patika_C_Sharp_101\practices\encapsulation-property\bin\Debug\net5.0\encapsulation-property.exe
+C:\Users\hp\Desktop\Patika_C_Sharp_101\practices\encapsulation-property\bin\Debug\net5.0\encapsulation-property.deps.json
+C:\Users\hp\Desktop\Patika_C_Sharp_101\practices\encapsulation-property\bin\Debug\net5.0\encapsulation-property.runtimeconfig.json
+C:\Users\hp\Desktop\Patika_C_Sharp_101\practices\encapsulation-property\bin\Debug\net5.0\encapsulation-property.runtimeconfig.dev.json
+C:\Users\hp\Desktop\Patika_C_Sharp_101\practices\encapsulation-property\bin\Debug\net5.0\encapsulation-property.dll
+C:\Users\hp\Desktop\Patika_C_Sharp_101\practices\encapsulation-property\bin\Debug\net5.0\ref\encapsulation-property.dll
+C:\Users\hp\Desktop\Patika_C_Sharp_101\practices\encapsulation-property\bin\Debug\net5.0\encapsulation-property.pdb
+C:\Users\hp\Desktop\Patika_C_Sharp_101\practices\encapsulation-property\obj\Debug\net5.0\encapsulation-property.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Patika_C_Sharp_101\practices\encapsulation-property\obj\Debug\net5.0\encapsulation-property.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\Patika_C_Sharp_101\practices\encapsulation-property\obj\Debug\net5.0\encapsulation-property.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Patika_C_Sharp_101\practices\encapsulation-property\obj\Debug\net5.0\encapsulation-property.AssemblyInfo.cs
+C:\Users\hp\Desktop\Patika_C_Sharp_101\practices\encapsulation-property\obj\Debug\net5.0\encapsulation-property.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Patika_C_Sharp_101\practices\encapsulation-property\obj\Debug\net5.0\encapsulation-property.dll
+C:\Users\hp\Desktop\Patika_C_Sharp_101\practices\encapsulation-property\obj\Debug\net5.0\ref\encapsulation-property.dll
+C:\Users\hp\Desktop\Patika_C_Sharp_101\practices\encapsulation-property\obj\Debug\net5.0\encapsulation-property.pdb
+C:\Users\hp\Desktop\Patika_C_Sharp_101\practices\encapsulation-property\obj\Debug\net5.0\encapsulation-property.genruntimeconfig.cache
