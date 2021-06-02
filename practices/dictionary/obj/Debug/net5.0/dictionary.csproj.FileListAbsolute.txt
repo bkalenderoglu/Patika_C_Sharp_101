@@ -1,0 +1,16 @@
+C:\Users\hp\Desktop\Patika_C_Sharp_101\practices\dictionary\bin\Debug\net5.0\dictionary.exe
+C:\Users\hp\Desktop\Patika_C_Sharp_101\practices\dictionary\bin\Debug\net5.0\dictionary.deps.json
+C:\Users\hp\Desktop\Patika_C_Sharp_101\practices\dictionary\bin\Debug\net5.0\dictionary.runtimeconfig.json
+C:\Users\hp\Desktop\Patika_C_Sharp_101\practices\dictionary\bin\Debug\net5.0\dictionary.runtimeconfig.dev.json
+C:\Users\hp\Desktop\Patika_C_Sharp_101\practices\dictionary\bin\Debug\net5.0\dictionary.dll
+C:\Users\hp\Desktop\Patika_C_Sharp_101\practices\dictionary\bin\Debug\net5.0\ref\dictionary.dll
+C:\Users\hp\Desktop\Patika_C_Sharp_101\practices\dictionary\bin\Debug\net5.0\dictionary.pdb
+C:\Users\hp\Desktop\Patika_C_Sharp_101\practices\dictionary\obj\Debug\net5.0\dictionary.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Patika_C_Sharp_101\practices\dictionary\obj\Debug\net5.0\dictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\Patika_C_Sharp_101\practices\dictionary\obj\Debug\net5.0\dictionary.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Patika_C_Sharp_101\practices\dictionary\obj\Debug\net5.0\dictionary.AssemblyInfo.cs
+C:\Users\hp\Desktop\Patika_C_Sharp_101\practices\dictionary\obj\Debug\net5.0\dictionary.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Patika_C_Sharp_101\practices\dictionary\obj\Debug\net5.0\dictionary.dll
+C:\Users\hp\Desktop\Patika_C_Sharp_101\practices\dictionary\obj\Debug\net5.0\ref\dictionary.dll
+C:\Users\hp\Desktop\Patika_C_Sharp_101\practices\dictionary\obj\Debug\net5.0\dictionary.pdb
+C:\Users\hp\Desktop\Patika_C_Sharp_101\practices\dictionary\obj\Debug\net5.0\dictionary.genruntimeconfig.cache
