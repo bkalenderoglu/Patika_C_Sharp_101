@@ -1,0 +1,16 @@
+C:\Users\hp\Desktop\Patika_C_Sharp_101\practices\staticClass\bin\Debug\net5.0\staticClass.exe
+C:\Users\hp\Desktop\Patika_C_Sharp_101\practices\staticClass\bin\Debug\net5.0\staticClass.deps.json
+C:\Users\hp\Desktop\Patika_C_Sharp_101\practices\staticClass\bin\Debug\net5.0\staticClass.runtimeconfig.json
+C:\Users\hp\Desktop\Patika_C_Sharp_101\practices\staticClass\bin\Debug\net5.0\staticClass.runtimeconfig.dev.json
+C:\Users\hp\Desktop\Patika_C_Sharp_101\practices\staticClass\bin\Debug\net5.0\staticClass.dll
+C:\Users\hp\Desktop\Patika_C_Sharp_101\practices\staticClass\bin\Debug\net5.0\ref\staticClass.dll
+C:\Users\hp\Desktop\Patika_C_Sharp_101\practices\staticClass\bin\Debug\net5.0\staticClass.pdb
+C:\Users\hp\Desktop\Patika_C_Sharp_101\practices\staticClass\obj\Debug\net5.0\staticClass.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Patika_C_Sharp_101\practices\staticClass\obj\Debug\net5.0\staticClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\Patika_C_Sharp_101\practices\staticClass\obj\Debug\net5.0\staticClass.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Patika_C_Sharp_101\practices\staticClass\obj\Debug\net5.0\staticClass.AssemblyInfo.cs
+C:\Users\hp\Desktop\Patika_C_Sharp_101\practices\staticClass\obj\Debug\net5.0\staticClass.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Patika_C_Sharp_101\practices\staticClass\obj\Debug\net5.0\staticClass.dll
+C:\Users\hp\Desktop\Patika_C_Sharp_101\practices\staticClass\obj\Debug\net5.0\ref\staticClass.dll
+C:\Users\hp\Desktop\Patika_C_Sharp_101\practices\staticClass\obj\Debug\net5.0\staticClass.pdb
+C:\Users\hp\Desktop\Patika_C_Sharp_101\practices\staticClass\obj\Debug\net5.0\staticClass.genruntimeconfig.cache
