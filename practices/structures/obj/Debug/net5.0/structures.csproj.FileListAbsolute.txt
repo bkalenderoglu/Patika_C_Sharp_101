@@ -1,0 +1,16 @@
+C:\Users\hp\Desktop\Patika_C_Sharp_101\practices\structures\bin\Debug\net5.0\structures.exe
+C:\Users\hp\Desktop\Patika_C_Sharp_101\practices\structures\bin\Debug\net5.0\structures.deps.json
+C:\Users\hp\Desktop\Patika_C_Sharp_101\practices\structures\bin\Debug\net5.0\structures.runtimeconfig.json
+C:\Users\hp\Desktop\Patika_C_Sharp_101\practices\structures\bin\Debug\net5.0\structures.runtimeconfig.dev.json
+C:\Users\hp\Desktop\Patika_C_Sharp_101\practices\structures\bin\Debug\net5.0\structures.dll
+C:\Users\hp\Desktop\Patika_C_Sharp_101\practices\structures\bin\Debug\net5.0\ref\structures.dll
+C:\Users\hp\Desktop\Patika_C_Sharp_101\practices\structures\bin\Debug\net5.0\structures.pdb
+C:\Users\hp\Desktop\Patika_C_Sharp_101\practices\structures\obj\Debug\net5.0\structures.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Patika_C_Sharp_101\practices\structures\obj\Debug\net5.0\structures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\Patika_C_Sharp_101\practices\structures\obj\Debug\net5.0\structures.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Patika_C_Sharp_101\practices\structures\obj\Debug\net5.0\structures.AssemblyInfo.cs
+C:\Users\hp\Desktop\Patika_C_Sharp_101\practices\structures\obj\Debug\net5.0\structures.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Patika_C_Sharp_101\practices\structures\obj\Debug\net5.0\structures.dll
+C:\Users\hp\Desktop\Patika_C_Sharp_101\practices\structures\obj\Debug\net5.0\ref\structures.dll
+C:\Users\hp\Desktop\Patika_C_Sharp_101\practices\structures\obj\Debug\net5.0\structures.pdb
+C:\Users\hp\Desktop\Patika_C_Sharp_101\practices\structures\obj\Debug\net5.0\structures.genruntimeconfig.cache
