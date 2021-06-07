@@ -1,0 +1,16 @@
+C:\Users\hp\Desktop\Patika_C_Sharp_101\practices\interfaces_example\bin\Debug\net5.0\interfaces_example.exe
+C:\Users\hp\Desktop\Patika_C_Sharp_101\practices\interfaces_example\bin\Debug\net5.0\interfaces_example.deps.json
+C:\Users\hp\Desktop\Patika_C_Sharp_101\practices\interfaces_example\bin\Debug\net5.0\interfaces_example.runtimeconfig.json
+C:\Users\hp\Desktop\Patika_C_Sharp_101\practices\interfaces_example\bin\Debug\net5.0\interfaces_example.runtimeconfig.dev.json
+C:\Users\hp\Desktop\Patika_C_Sharp_101\practices\interfaces_example\bin\Debug\net5.0\interfaces_example.dll
+C:\Users\hp\Desktop\Patika_C_Sharp_101\practices\interfaces_example\bin\Debug\net5.0\ref\interfaces_example.dll
+C:\Users\hp\Desktop\Patika_C_Sharp_101\practices\interfaces_example\bin\Debug\net5.0\interfaces_example.pdb
+C:\Users\hp\Desktop\Patika_C_Sharp_101\practices\interfaces_example\obj\Debug\net5.0\interfaces_example.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Patika_C_Sharp_101\practices\interfaces_example\obj\Debug\net5.0\interfaces_example.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\Patika_C_Sharp_101\practices\interfaces_example\obj\Debug\net5.0\interfaces_example.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Patika_C_Sharp_101\practices\interfaces_example\obj\Debug\net5.0\interfaces_example.AssemblyInfo.cs
+C:\Users\hp\Desktop\Patika_C_Sharp_101\practices\interfaces_example\obj\Debug\net5.0\interfaces_example.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Patika_C_Sharp_101\practices\interfaces_example\obj\Debug\net5.0\interfaces_example.dll
+C:\Users\hp\Desktop\Patika_C_Sharp_101\practices\interfaces_example\obj\Debug\net5.0\ref\interfaces_example.dll
+C:\Users\hp\Desktop\Patika_C_Sharp_101\practices\interfaces_example\obj\Debug\net5.0\interfaces_example.pdb
+C:\Users\hp\Desktop\Patika_C_Sharp_101\practices\interfaces_example\obj\Debug\net5.0\interfaces_example.genruntimeconfig.cache
