@@ -1,0 +1,16 @@
+C:\Users\hp\Desktop\Patika_C_Sharp_101\practices\Inheritance\bin\Debug\net5.0\Inheritance.exe
+C:\Users\hp\Desktop\Patika_C_Sharp_101\practices\Inheritance\bin\Debug\net5.0\Inheritance.deps.json
+C:\Users\hp\Desktop\Patika_C_Sharp_101\practices\Inheritance\bin\Debug\net5.0\Inheritance.runtimeconfig.json
+C:\Users\hp\Desktop\Patika_C_Sharp_101\practices\Inheritance\bin\Debug\net5.0\Inheritance.runtimeconfig.dev.json
+C:\Users\hp\Desktop\Patika_C_Sharp_101\practices\Inheritance\bin\Debug\net5.0\Inheritance.dll
+C:\Users\hp\Desktop\Patika_C_Sharp_101\practices\Inheritance\bin\Debug\net5.0\ref\Inheritance.dll
+C:\Users\hp\Desktop\Patika_C_Sharp_101\practices\Inheritance\bin\Debug\net5.0\Inheritance.pdb
+C:\Users\hp\Desktop\Patika_C_Sharp_101\practices\Inheritance\obj\Debug\net5.0\Inheritance.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Patika_C_Sharp_101\practices\Inheritance\obj\Debug\net5.0\Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\Patika_C_Sharp_101\practices\Inheritance\obj\Debug\net5.0\Inheritance.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Patika_C_Sharp_101\practices\Inheritance\obj\Debug\net5.0\Inheritance.AssemblyInfo.cs
+C:\Users\hp\Desktop\Patika_C_Sharp_101\practices\Inheritance\obj\Debug\net5.0\Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Patika_C_Sharp_101\practices\Inheritance\obj\Debug\net5.0\Inheritance.dll
+C:\Users\hp\Desktop\Patika_C_Sharp_101\practices\Inheritance\obj\Debug\net5.0\ref\Inheritance.dll
+C:\Users\hp\Desktop\Patika_C_Sharp_101\practices\Inheritance\obj\Debug\net5.0\Inheritance.pdb
+C:\Users\hp\Desktop\Patika_C_Sharp_101\practices\Inheritance\obj\Debug\net5.0\Inheritance.genruntimeconfig.cache
