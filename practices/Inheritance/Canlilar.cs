@@ -14,5 +14,9 @@ namespace Inheritance
         protected void Bosaltim(){
             Console.WriteLine("Canlılar bosaltım yapar.");
         }
+
+        public virtual void UyaranlaraTepki(){
+            System.Console.WriteLine("Canlılar uyaranlara tepki verir");
+        }
     }
 }
