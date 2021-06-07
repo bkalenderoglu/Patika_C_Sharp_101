@@ -17,7 +17,7 @@ namespace recursive_extension_methods
             }
             Console.WriteLine(result);
                 
-            calculationsü instance = new();
+            calculations instance = new();
             Console.WriteLine(instance.Exponential(3,4));
 
             //Extension Methods
@@ -41,7 +41,7 @@ namespace recursive_extension_methods
             Console.WriteLine(expr.GetFirstChar());
         }
     }
-    public class calculationsü
+    public class calculations
     {   
         //recursive function
         public int Exponential(int num, int power)
