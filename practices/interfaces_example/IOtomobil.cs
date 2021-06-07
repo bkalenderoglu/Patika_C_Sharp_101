@@ -4,7 +4,7 @@ namespace interfaces_example
 {
     public interface IOtomobil{
         int KacTekerlektenOlusur();
-        Marka HangiMarkanınAracı();
+        Marka HangiMarkanınAraci();
         Renk StandartRengiNe();
     }
 }

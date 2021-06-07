@@ -4,7 +4,7 @@ namespace interfaces_example
 {
     public class Civic : IOtomobil
     {
-        public Marka HangiMarkanınAracı()
+        public Marka HangiMarkanınAraci()
         {
             return Marka.Honda;
         }
