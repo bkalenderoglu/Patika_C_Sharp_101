@@ -6,7 +6,7 @@ namespace exception_handling
     {
         static void Main(string[] args)
         {
-            /*try
+            try
             {
 
             Console.WriteLine("Enter a number: ");
@@ -22,7 +22,7 @@ namespace exception_handling
             finally // runs in any situation
             {
                 Console.WriteLine("Done...");
-            }*/
+            }
             
             try
             {
